@@ -1,4 +1,4 @@
-# A guide to self-archiving academic papers
+# Introduction
 
 This website provides a guide for academics looking to self-archive their academic papers.
 
